@@ -6,3 +6,4 @@
 # Teste
 
 * comando git pull
+* git fetch
